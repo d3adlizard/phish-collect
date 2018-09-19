@@ -1,7 +1,7 @@
 [phishtank]
-username = ''
-password = ''
-url = ''
+username = 'd3adlizard'
+password = 'Ch@ng3m3'
+url = 'http://data.phishtank.com/data/3e62cf8613edbf401ab5f86f3e4812e5fc77836d19acc38a0cd7e3c2e2d85bab/online-valid.json.bz2/'
 last_seen = ''
 
 [openphish]

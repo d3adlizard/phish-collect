@@ -15,7 +15,7 @@ if [ -f $LOCKFILE ]; then
     fi
 fi
 echo $$ > "${LOCKFILE}"
-
+. .env/bin/activate
 .env/bin/python collector.py
 
 rm $LOCKFILE
